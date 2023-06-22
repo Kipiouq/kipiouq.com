@@ -1,0 +1,11 @@
+
+style = ["config/global/style.css"]
+head = ["config/global/mobile.html"]
+# main holds the body of the document in main there are blocks which have properties
+[main]
+
+
+# Main site info
+[[main.block]]
+from_str = "config/index/aboutme.md"
+style = "md"
