@@ -25,3 +25,5 @@ I have severe brainrot :).
 ```text
 please check out my cool subdomains on the topnav!!
 ```
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
