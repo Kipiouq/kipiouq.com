@@ -10,6 +10,7 @@
 <a href="https://loaf.kipiouq.com">Loaf</a>
 <a href="https://cred.kipiouq.com">Cred</a>
 <a href="https://zaza.kipiouq.com">Wizard</a>
+<a href="https://shcnoz.kipiouq.com">Shcnoz</a>
 </div>
 
 
